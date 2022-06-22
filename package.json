@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kclconsult/messages#readme",
   "dependencies": {
-    "got": "^11.3.0"
+    "got": "^11.8.5"
   }
 }
